@@ -1,0 +1,76 @@
+Creating Directory D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions
+Found hkx file: mt_idle (10).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4096\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (10).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4096\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4096\_conditions.txt
+Using chance 1.0000
+Found hkx file: mt_idle (11).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4097\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (11).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4097\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4097\_conditions.txt
+Using chance 0.5000
+Found hkx file: mt_idle (12).HKX
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4098\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (12).HKX to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4098\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4098\_conditions.txt
+Using chance 0.3333
+Found hkx file: mt_idle (13).HKX
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4099\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (13).HKX to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4099\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4099\_conditions.txt
+Using chance 0.2500
+Found hkx file: mt_idle (14).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4100\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (14).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4100\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4100\_conditions.txt
+Using chance 0.2000
+Found hkx file: mt_idle (15).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4101\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (15).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4101\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4101\_conditions.txt
+Using chance 0.1667
+Found hkx file: mt_idle (16).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4102\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (16).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4102\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4102\_conditions.txt
+Using chance 0.1429
+Found hkx file: mt_idle (2).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4103\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (2).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4103\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4103\_conditions.txt
+Using chance 0.1250
+Found hkx file: mt_idle (3).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4104\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (3).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4104\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4104\_conditions.txt
+Using chance 0.1111
+Found hkx file: mt_idle (4).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4105\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (4).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4105\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4105\_conditions.txt
+Using chance 0.1000
+Found hkx file: mt_idle (5).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4106\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (5).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4106\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4106\_conditions.txt
+Using chance 0.0909
+Found hkx file: mt_idle (6).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4107\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (6).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4107\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4107\_conditions.txt
+Using chance 0.0833
+Found hkx file: mt_idle (7).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4108\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (7).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4108\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4108\_conditions.txt
+Using chance 0.0769
+Found hkx file: mt_idle (8).HKX
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4109\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (8).HKX to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4109\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4109\_conditions.txt
+Using chance 0.0714
+Found hkx file: mt_idle (9).hkx
+Creating folder D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4110\female
+Copying animation file D:\CodingProjects\Scripts\DynamicRandomIdles\Script\.\mt_idle (9).hkx to D:\CodingProjects\Scripts\DynamicRandomIdles\Script\Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4110\female\mt_idle.hkx
+Creating conditions file Meshes\Actors\Character\Animations\DynamicAnimationReplacer\_CustomConditions\4110\_conditions.txt
+Using chance 0.0667

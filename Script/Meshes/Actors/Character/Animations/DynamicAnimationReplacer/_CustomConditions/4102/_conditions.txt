@@ -1,0 +1,3 @@
+IsFemale() AND
+IsActorBase("Skyrim.esm" | 0X000007) AND
+Random(0.1429)
