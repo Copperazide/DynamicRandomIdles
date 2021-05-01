@@ -17,6 +17,7 @@ public class Main {
                     + "IsActorBase(\"Skyrim.esm\" | 0X000007) AND\n"
                     + "Random(%s)";
     private static String animationFileName = "mt_idle.hkx";
+    private static String testfilesDirectory = "resources\\testfiles"; //should be replaced with "." on release
 
     public static void main(String[] args) {
         Logger.deleteLogFileIfExists();
@@ -45,7 +46,7 @@ public class Main {
     }
 
     private static void createAnimationFolders() {
-        File folder = new File(".");
+        File folder = new File(testfilesDirectory);
         File[] listOfFiles = folder.listFiles();
 
         if(listOfFiles == null) {

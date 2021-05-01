@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="DynamicRandomFemaleIdles:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/DynamicRandomFemaleIdles_jar</output-path>
-    <root id="archive" name="DynamicRandomFemaleIdles.jar">
-      <element id="module-output" name="DynamicRandomIdles" />
-    </root>
-  </artifact>
-</component>
