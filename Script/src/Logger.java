@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public abstract class Logger {
-    private static String logFileName = "DynamicRandomFemaleIdlesLog.txt";
+    private static String logFileName = "DynamicRandomIdlesLog.txt";
 
     public static void debug(String msg) {
         try {
