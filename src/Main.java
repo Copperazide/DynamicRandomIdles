@@ -17,7 +17,7 @@ public class Main {
                     + "IsActorBase(\"Skyrim.esm\" | 0X000007) AND\n"
                     + "Random(%s)";
     private static String animationFileName = "mt_idle.hkx";
-    private static String testfilesDirectory = "resources\\testfiles"; //should be replaced with "." on release
+    private static String animationFilesDirectory = "."; //replace with folder that contains .hkx files, takes animations in same folder as executable by default
 
     public static void main(String[] args) {
         Logger.deleteLogFileIfExists();
@@ -46,7 +46,7 @@ public class Main {
     }
 
     private static void createAnimationFolders() {
-        File folder = new File(testfilesDirectory);
+        File folder = new File(animationFilesDirectory);
         File[] listOfFiles = folder.listFiles();
 
         if(listOfFiles == null) {
@@ -70,6 +70,7 @@ public class Main {
             Logger.debug("Creating folder " + path.toAbsolutePath());
             Files.createDirectories(path);
             Logger.debug("Copying animation file " + animationFile.toPath().toAbsolutePath() + " to " + targetFilePath.toAbsolutePath());
+            String msg = "Copying animation file " + animationFile.toPath().toAbsolutePath() + " to " + targetFilePath.toAbsolutePath();
             Files.copy(animationFile.toPath(), targetFilePath);
             createConditionsFile(baseDirectory + "\\" + folderName, chance);
         } catch (IOException e) {
